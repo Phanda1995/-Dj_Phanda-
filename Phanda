@@ -1,7 +1,7 @@
 {
   "room":   "♫♪Dj_Phanda♪♫ ",
   "author": "Mixas093",
-  "icon":   "http://i.imgur.com/7yDfpYu.png",
+  "icon":   "http://prntscr.com/e4ws2z",
   "css":    "https://rawgit.com/mixas093/mixas093/master/mixo1.css",
   "rules": {
     "allowAutorespond": true,
@@ -27,7 +27,7 @@
     "user":             null
   },
   "images": {
-    "background":       "http://i.imgur.com/WTylHRy.png",
+    "background":       "https://cdn.radiant.dj/rcs/bg/16.png",
     "playback":         null,
     "admin":            null,
     "ambassador":       null,
