@@ -1,7 +1,7 @@
 {
   "room":   "♫♪Dj_Phanda♪♫ ",
   "author": "Mixas093",
-"icon": "http://is2.mzstatic.com/image/thumb/Purple7/v4/cd/93/73/cd9373da-0395-aacc-e86b-0ad6fa456f6d/source/100x100bb.jpg"
+  "icon": "http://is2.mzstatic.com/image/thumb/Purple7/v4/cd/93/73/cd9373da-0395-aacc-e86b-0ad6fa456f6d/source/100x100bb.jpg"
 "css":    "https://rawgit.com/mixas093/mixas093/master/mixo1.css",
   "rules": {
     "allowAutorespond": true,
