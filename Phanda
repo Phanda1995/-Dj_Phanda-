@@ -1,8 +1,8 @@
 {
-  "room":   "♫♪Dj_Phanda♪♫ ",
-  "author": "Mixas093",
+  "room":   "Lietuviškas LTU/EU/RUS",
+  "author": "♫♪Dj_Phanda♪♫",
 "icon":"https://i.imgur.com/uDtqkqV.png",
-"css":    "https://rawgit.com/mixas093/mixas093/master/mixo1.css",
+"css":  "https://rawgit.com/mixas093/mixas093/master/mixo1.css",
   "rules": {
     "allowAutorespond": true,
     "allowAutowoot":    true,
@@ -41,6 +41,6 @@
   },
   "autocomplete": [],
   "emotes": {
-    "Mixas": "http://i.imgur.com/yc2tLr6.png"
+    "♫♪Dj_Phanda♪♫": "http://i.imgur.com/yc2tLr6.png"
   }
 }
