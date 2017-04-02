@@ -31,13 +31,13 @@
     "playback":         null,
     "admin":            null,
     "ambassador":       null,
-    "host":             "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_host.png",
-    "cohost":           "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_cohost.png",
-    "manager":          "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_manager.png",
-    "bouncer":          "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_bouncer.png",
-    "rdj":              "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/rank_dj.png",
+    "host":             "http://xtcs.lt/forum/images/medal-012.gif",
+    "cohost":           "http://xtcs.lt/forum/images/medal-3000.gif",
+    "manager":          "http://xtcs.lt/forum/images/medal-026.gif",
+    "bouncer":          "http://xtcs.lt/forum/images/medal-013.gif",
+    "rdj":              "http://xtcs.lt/forum/images/medal-veteran.gif",
     "subscriber":       "https://raw.githubusercontent.com/Plug-It/pi/master/images/chat/crown.png",
-    "silversubscriber": null
+    "silversubscriber": "http://xtcs.lt/forum/images/medal-010.gif"
   },
   "autocomplete": [],
   "emotes": {
