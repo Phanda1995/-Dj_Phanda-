@@ -1,1 +1,46 @@
-https://rawgit.com/mixas093/mixas093/master/mixo1.css
+{
+  "room":   "Music Community One",
+  "author": "♫♪Dj_Phanda♪♫",
+"icon":"https://i.imgur.com/uDtqkqV.png",
+"css":  "https://rawgit.com/mixas093/mixas093/master/mixo1.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot":    true,
+    "allowAutojoin":    true,
+    "allowAutograb":    true,
+    "allowSmartVote":   true,
+    "allowEmotes":      true,
+    "allowShowingMehs": true,
+    "forceSmartVote":   false
+  },
+  "ccc": {
+    "admin":            null,
+    "ambassador":       "#9C0",
+    "host":             "ffd700",
+    "cohost":           "#58F",
+    "manager":          "#008000",
+    "bouncer":          "#ff0000",
+    "rdj":              "#5E5EFF",
+    "subscriber":       "#FB3",
+    "silversubscriber": null,
+    "friend":           null,
+    "user":             null
+  },
+  "images": {
+    "background":       "https://i.imgur.com/DKAqiOt.jpg",
+    "playback":         null,
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "https://i.imgur.com/Hm8kCDL.png",
+    "cohost":           "https://i.imgur.com/axKg19I.png",
+    "manager":          "https://i.imgur.com/SCkLxHj.png",
+    "bouncer":          "https://i.imgur.com/YUKVqO2.png",
+    "rdj":              "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_RDJ.png",
+    "subscriber":       "https://i.imgur.com/zIbImv1.png",
+    "silversubscriber": "https://i.imgur.com/AHDikC9.png"
+  },
+  "autocomplete": [],
+  "emotes": {
+  
+  }
+}
